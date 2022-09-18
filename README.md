@@ -1,3 +1,3 @@
 # java-script
-Here I am goinf to put all the java-script program i write
+Here I am going to put all the java-script program i write
 
